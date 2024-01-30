@@ -1,0 +1,23 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 100em;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.label {
+    font-size: x-large;
+    
+}
+
+#submitRequest {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(39, 59, 131);
+    color: rgb(246, 247, 249);
+    font-size: 1rem;
+}

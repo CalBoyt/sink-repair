@@ -1,0 +1,65 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maud"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "serviceRequestId": 1,
+      "plumberId": 1,
+      "date_completed": 1697224306686,
+      "id": 1
+    },
+    {
+      "serviceRequestId": 1,
+      "plumberId": 1,
+      "date_completed": 1697224552319,
+      "id": 2
+    },
+    {
+      "serviceRequestId": 1,
+      "plumberId": 1,
+      "date_completed": 1697225129563,
+      "id": 3
+    },
+    {
+      "serviceRequestId": 1,
+      "plumberId": 2,
+      "date_completed": 1697225133340,
+      "id": 4
+    },
+    {
+      "serviceRequestId": 1,
+      "plumberId": 1,
+      "date_completed": 1697225758307,
+      "id": 5
+    },
+    {
+      "serviceRequestId": 1,
+      "plumberId": 2,
+      "date_completed": 1697225759725,
+      "id": 6
+    },
+    {
+      "serviceRequestId": 2,
+      "plumberId": 2,
+      "date_completed": 1697227228777,
+      "id": 7
+    }
+  ],
+  "requests": [
+    {
+      "description": "Hubby broke sink",
+      "address": "1500 Greenmont Hills Dr",
+      "budget": "-12",
+      "neededBy": "2023-10-14",
+      "id": 2
+    }
+  ]
+}
